@@ -247,15 +247,15 @@ h4{
 
 @media screen and (max-width: 375px){
     .main-img{
-        width: 30rem;
-        height: 30rem;
+        width: 35rem;
+        height: 35rem;
     
-        margin-top: -5rem;
+        margin-top: -8rem;
     }
     
     .main-img img{
-        width: 30rem;
-        height: 30rem;
+        width: 35rem;
+        height: 35rem;
     }
     
     h3{
